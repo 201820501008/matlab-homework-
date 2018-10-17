@@ -9,6 +9,7 @@ min_2=min(thermocouple2)
 max_3=max(thermocouple3)
 min_3=min(thermocouple3)
 
+结果：
 max_1 =
 
    87.1000
